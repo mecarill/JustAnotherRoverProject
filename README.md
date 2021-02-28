@@ -18,7 +18,7 @@ Quantity |Item name
 1|PCA9685 PWM Driver
 1|2200mah LiPo Battery
 
-## XBox One Controller Setup
+## Xbox One Controller Setup
 
 An Xbox One Controller was to to initially test out the functions of the rover before going more into autonomous functions. Mainly to set up the motor functions / odometery.
 
@@ -32,3 +32,5 @@ Step 3: Copy the line before to sysfs.conf
 >module/bluetooth/parameters/disable_ertm = 1
 
 Step 4: Restart and connect to BT.
+
+Ensure that your Xbox One controller is one of the newer ones that has bluetooth, don't make the mistake I did and spend hours troubleshooting only to realise that you have an older controller.
