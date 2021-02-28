@@ -21,6 +21,7 @@ Quantity |Item name
 ## XBox One Controller Setup
 
 An Xbox One Controller was to to initially test out the functions of the rover before going more into autonomous functions. Mainly to set up the motor functions / odometery.
+
 Step 1: Install sysfsutils
 > sudo apt install sysfsutils
 
